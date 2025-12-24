@@ -1,5 +1,5 @@
 # Ex.05 Book Front Cover Page Design
-## Date:
+## Date:24.12.2025
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -32,11 +32,39 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 ```
-INCLUDE YOUR PROGRM HERE
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book Cover Design</title>
+
+  <style>
+    
+
+    h1 {
+      color: rgb(255, 255, 255);
+         margin-top: -120px;
+  margin-left: 70px;
+
+      font-size: 70px;
+      font-family: "Garamond", serif;
+ 
+    }
+  </style>
+</head>
+
+<body align="center">
+
+  <img src="tvd.jpg" height="650" width="1000" alt="Book Cover Background">
+
+
+  <h1 align="center">The Vampire Diaries</h1>
+</body>
+</html>
 ```
 
 ## OUTPUT:
-
+![alt text](<image copy.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
